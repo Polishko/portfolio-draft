@@ -12,9 +12,8 @@ loved it! I am looking forward to start a career as a software
 engineer, working with and learning in new teams and
 collaborating in interesting projects.
 
-I recently completed the Python - Django ORM and HTML, CSS
-courses at SoftUni.
+I recently completed the Python - Django ORM and HTML, CSS and
+JavaScript Front-End courses at SoftUni.
 
-Currently I am learning JS Front-End. I'm looking forward to
-take the Python Web module in the program and eventually
-creating some interesting projects.
+I'm looking forward to take the React and the Python Web module
+in the program and star creating my own projects.
