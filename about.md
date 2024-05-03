@@ -16,4 +16,4 @@ I recently completed the Python - Django ORM, HTML-CSS and
 JavaScript Front-End courses at SoftUni.
 
 I'm looking forward to take the React and the Python Web module
-in the program and star creating my own projects.
+in the program and start creating my own projects.
