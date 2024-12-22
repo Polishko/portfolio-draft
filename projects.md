@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-To be added
+{% include projects.html %}
